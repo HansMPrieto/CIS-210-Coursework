@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-10-01T00:31:15.910Z,42.0223333,-124.2715,16.22,2.99,ml,12,173,0.05672,0.27,uw,uw61424827,2018-10-02T03:31:16.224Z,"3km SSE of Brookings, Oregon",earthquake,1.11,0.96,0.204,10,reviewed,uw,uw
+2018-09-25T13:18:50.110Z,45.6766667,-122.8965,22.71,2.56,ml,43,38,0.1266,0.11,uw,uw61422757,2018-10-01T21:06:21.040Z,"8km S of Scappoose, Oregon",earthquake,0.18,0.41,0.101,23,reviewed,uw,uw
+2018-09-17T00:08:26.690Z,45.1358333,-122.9721667,40.89,2.83,ml,45,30,0.1447,0.24,uw,uw61419862,2018-10-08T02:55:33.040Z,"6km WNW of Gervais, Oregon",earthquake,0.31,0.38,0.183,25,reviewed,uw,uw
+2018-09-08T14:17:50.380Z,42.2935,-124.6693333,21.05,2.76,ml,9,264,0.2409,0.12,uw,uw61426681,
